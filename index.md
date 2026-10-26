@@ -23,7 +23,7 @@
       <table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse; border: none;">
         <tr>
           <td style="padding-right: 16px;">📍 <b>Location:</b> Taipei, Taiwan</td>
-          <td>🌐 <b>Website:</b> <a href="https://niswhowonderworks.blogspot.com" target="_blank" rel="noopener noreferrer">niswhowonderworks.blogspot.com</a></td>
+          <td>🌐 <b>Website:</b> TBD</td>
         </tr>
         <tr>
           <td style="padding-right: 16px;">✉️ <b>Email:</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
