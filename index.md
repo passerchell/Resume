@@ -19,11 +19,11 @@
     </td>
     <td width="78%" valign="top">
       <h1 style="border-bottom: none; margin-bottom: 5px; color: #1E3A8A;">Chell Chien</h1>
-      <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>Admin. Assistant</strong></p>
+      <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>Lab Administrative Assistant</strong></p>
       <table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse; border: none;">
         <tr>
           <td style="padding-right: 16px;">📍 <b>Location:</b> Taipei, Taiwan</td>
-          <td>🌐 <b>Website:</b> TBD</td>
+          <td>🌐 <b>GitHub:</b> <a href="https://github.com/passerchell" target="_blank" rel="noopener noreferrer">github.com/passerchell</a></td>
         </tr>
         <tr>
           <td style="padding-right: 16px;">✉️ <b>Email:</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
@@ -71,9 +71,9 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 *Aug 2015 – Aug 2016*
 * Managed government portal website operations, customer service inquiries, and project video planning and execution.
 
-### **Managing Editor & Project Assistant** | *Faya Technology Marketing Co., Ltd.*
+### **Managing Editor & Project Assistant** | *FAYA Technology Integrated Marketing Co., Ltd.*
 *Jul 2014 – Jul 2015*
-* Oversee interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
+* Oversaw interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
 
 ---
 ## EDUCATION
@@ -87,12 +87,14 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 * **Technical & Software Skills:**
   * **AI & Productivity Tools:** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
   * **Design & Multimedia:** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
-  * **Programming & Tech:** Python, Git, HTML/CSS
+  * **Programming & Tech:** Python, MySQL, MongoDB, Docker, Apache Airflow, GCP, Linux, Git, HTML/CSS
   * **Productivity:** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
 
 * **Certifications & Training:**
-  * Cloud Data Engineering Program Certificate (*TibaMe*)
-  * Certified Instructor in Japanese Crochet (*JHIA / NAC*)
+  * AWS Cloud Engineer Training Program (*TibaMe*, in progress, expected Feb 2027)
+  * Cloud Data Engineering Program, 207 hours (*TibaMe*, 2025)
+  * OverTheWire Bandit Wargame: completed all levels 0–34 (Linux & networking, 2026)
+  * Certified Crochet Instructor (*Japan Handicraft Instructors' Association, JHIA*, 2023)
 
 * **Special Interests:**
   * Focuses on creative craft projects, digital content creation, and AI workflow exploration.

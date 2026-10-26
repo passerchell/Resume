@@ -18,19 +18,17 @@
     </td>
     <td width="78%" valign="top">
       <h1 style="border-bottom: none; margin-bottom: 5px; color: #1E3A8A;">簡瑋靜 (Chell Chien)</h1>
-      <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>行政助理 / 專案助理</strong></p>
-      <p style="font-size: 0.9em; line-height: 1.6; color: #374151;">
-<table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse;">
-  <tr>
-    <td style="padding-right: 12px;">📍 <b>地點：</b> 台北，台灣</td>
-    <td>🌐 <b>個人網站：</b> TBD</td>
-  </tr>
-  <tr>
-    <td style="padding-right: 12px;">✉️ <b>Email：</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
-    <td>💼 <b>LinkedIn：</b> <a href="https://www.linkedin.com/in/chellchien" target="_blank" rel="noopener noreferrer">Chell Chien</a></td>
-  </tr>
-</table>
-      </p>  
+      <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>研究室行政助理</strong></p>
+      <table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse; border: none;">
+        <tr>
+          <td style="padding-right: 16px;">📍 <b>地點：</b> 台北，台灣</td>
+          <td>🌐 <b>GitHub：</b> <a href="https://github.com/passerchell" target="_blank" rel="noopener noreferrer">github.com/passerchell</a></td>
+        </tr>
+        <tr>
+          <td style="padding-right: 16px;">✉️ <b>Email：</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
+          <td>💼 <b>LinkedIn：</b> <a href="https://www.linkedin.com/in/chellchien" target="_blank" rel="noopener noreferrer">Chell Chien</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -64,7 +62,7 @@
 * **創新活動與推廣：** 負責讀者利用教育與留學講座推廣，企劃圖書館實境解謎活動（吸引 1,300+ 人參與，成長近 55 倍）。
 * **館藏與櫃臺業務：** 辦理圖書採購擬購、報廢清查，以及參考諮詢櫃檯讀者服務。
 
-### **自由職業者** | 
+### **自由接案**
 *2016 年 9 月 – 2016 年 12 月*
 * 接案商業影片剪輯、新聞動畫製作以及平面視覺設計。
 
@@ -86,21 +84,23 @@
 ## 專業技能與其他資訊
 
 * **專業技能：**
-  * **AI 與自動化工具：** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
-  * **視覺與影音設計：** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
-  * **程式工具與技術：** Python, Git, HTML/CSS
-  * **辦公室軟體：** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
+  * **AI 與自動化工具：** ChatGPT、Claude、Gemini、AI Prompt Engineering、AI-Assisted Workflows
+  * **視覺與影音設計：** Adobe Photoshop、Illustrator、Premiere Pro、After Effects
+  * **程式工具與技術：** Python、MySQL、MongoDB、Docker、Apache Airflow、GCP、Linux、Git、HTML/CSS
+  * **辦公室軟體：** Google Workspace、Microsoft Office(Excel、Word、PowerPoint)
 
 * **專業認證與進修：**
-  * 雲端資料工程專業培訓認證（Cloud Data Engineering Program — 緯育 TibaMe）
-  * 日本手工藝普及協會（JHIA / NAC）/ 鉤針編織講師認證
+  * AWS 雲端工程師養成班（緯育 TibaMe，進行中，預計 2027 年 2 月結業）
+  * 雲端資料工程師在職遠距班 完訓，共 207 小時（緯育 TibaMe，2025）
+  * OverTheWire Bandit 資安闖關：完成 Level 0–34 全關卡（Linux 與網路基礎，2026）
+  * 鉤針編織講師認定（公益財團法人日本手藝普及協會 JHIA，2023）
 
 * **興趣領域：**
   * 手作編織創作、數位內容企劃、AI 應用工具探索
 
 * **語言能力：**
   * **中文：** 母語 (Native)
-  * **英文：** 中等 (Intermediate)
+  * **英文：** 中等，可處理商務書信與外賓接待 (Intermediate)
   * **日文：** 略懂 (Basic)
 
 <p align="center" style="color: #9CA3AF; font-size: 0.85em;">
