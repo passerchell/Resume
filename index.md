@@ -71,7 +71,7 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 *Aug 2015 – Aug 2016*
 * Managed government portal website operations, customer service inquiries, and project video planning and execution.
 
-### **Managing Editor & Project Assistant** | *Fiya Technology Marketing Co., Ltd.*
+### **Managing Editor & Project Assistant** | *Faya Technology Marketing Co., Ltd.*
 *Jul 2014 – Jul 2015*
 * Oversee interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
 
