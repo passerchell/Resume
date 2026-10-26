@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td style="padding-right: 12px;">✉️ <b>Email：</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
-    <td>💼 <b>LinkedIn：</b> <a href="https://www.linkedin.com/in/wei-chien-18845283/" target="_blank" rel="noopener noreferrer">Chell Chien</a></td>
+    <td>💼 <b>LinkedIn：</b> <a href="https://www.linkedin.com/in/chellchien" target="_blank" rel="noopener noreferrer">Chell Chien</a></td>
   </tr>
 </table>
       </p>  
