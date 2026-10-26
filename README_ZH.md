@@ -75,6 +75,18 @@
 * 負責動漫新聞網站採訪編輯、FB 粉絲專頁維運、主題實體活動與科技行銷專案之規劃與執行。
 
 ---
+## 專案經歷
+
+### **結訓專題：「飲」爆話題 — 手搖飲熱度聲量分析** | *緯育 TibaMe 雲端資料工程師班*
+*2025 年 · 6 人小組 · 專題成績 100 分*
+* 追蹤手搖飲品牌在 PTT、ETtoday 新聞與 YouTube 的討論聲量與趨勢。
+* 以 Python（Requests、BeautifulSoup）負責撰寫 ETtoday 新聞爬蟲，並完整實作練習 PTT 爬蟲流程。
+* 將資料清理、去重後存入 MySQL，並建立 Docker 映像檔進行容器化。
+* 以 draw.io 繪製系統架構圖（雲端部署、資料流程與 API 串接）。
+* 運用 AI 工具輔助學習與除錯不熟悉的環節。
+* 於期末報告負責 PTT 與新聞趨勢分析。
+
+---
 ## 學歷背景
 
 ### **國立交通大學（現陽明交通大學）** — *新竹，台灣*
@@ -85,7 +97,7 @@
 
 * **專業技能：**
   * **AI 與自動化工具：** ChatGPT、Claude、Gemini、AI Prompt Engineering、AI-Assisted Workflows
-  * **視覺與影音設計：** Adobe Photoshop、Illustrator、Premiere Pro、After Effects
+  * **視覺與影音設計：** Adobe Photoshop、Illustrator、Premiere Pro、After Effects、draw.io
   * **程式工具與技術：** Python、MySQL、MongoDB、Docker、Apache Airflow、GCP、Linux、Git、HTML/CSS
   * **辦公室軟體：** Google Workspace、Microsoft Office(Excel、Word、PowerPoint)
 

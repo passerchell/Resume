@@ -76,6 +76,18 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 * Oversaw interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
 
 ---
+## PROJECTS
+
+### **Capstone Project: Bubble Tea Buzz Tracker** | *TibaMe Cloud Data Engineering Program*
+*2025 · Team of 6 · Scored 100/100*
+* Social listening project tracking bubble tea brand buzz across PTT, ETtoday news and YouTube.
+* Built the ETtoday news scraper in Python (Requests, BeautifulSoup), and practiced the PTT scraping workflow end to end.
+* Cleaned and deduplicated data into MySQL, and built Docker images to containerize services.
+* Designed the system architecture diagrams (cloud, data pipeline and API) in draw.io.
+* Used AI tools as a coding assistant to learn and debug unfamiliar steps.
+* Presented the PTT and news trend analysis at the final review.
+
+---
 ## EDUCATION
 
 ### **National Chiao Tung University (now NYCU)** — *Hsinchu, Taiwan*
@@ -86,7 +98,7 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 
 * **Technical & Software Skills:**
   * **AI & Productivity Tools:** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
-  * **Design & Multimedia:** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
+  * **Design & Multimedia:** Adobe Photoshop, Illustrator, Premiere Pro, After Effects, draw.io
   * **Programming & Tech:** Python, MySQL, MongoDB, Docker, Apache Airflow, GCP, Linux, Git, HTML/CSS
   * **Productivity:** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
 
