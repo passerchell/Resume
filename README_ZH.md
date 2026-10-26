@@ -23,7 +23,7 @@
 <table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse;">
   <tr>
     <td style="padding-right: 12px;">📍 <b>地點：</b> 台北，台灣</td>
-    <td>🌐 <b>個人網站：</b> <a href="https://niswhowonderworks.blogspot.com" target="_blank" rel="noopener noreferrer">不可思議研究所</a></td>
+    <td>🌐 <b>個人網站：</b> TBD</td>
   </tr>
   <tr>
     <td style="padding-right: 12px;">✉️ <b>Email：</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
